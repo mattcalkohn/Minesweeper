@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="hit_mine">You hit a mine! Reset to try again.</string>
+    <string name="misplaced_flag">You placed a flag where there was not a mine! Reset to try
+        again.</string>
+    <string name="congrats">Congratulations! You flagged all of the mines.</string>
+    <string name="flag">FLAG</string>
+    <string name="empty"></string>
+    <string name="step">STEP</string>
+    <string name="retry">Retry</string>
+    <string name="size_prompt">Choose a board difficulty</string>
+
+    <string-array name="size_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
